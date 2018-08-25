@@ -1,0 +1,5 @@
+ 2018-05-28 20:59:15,305 - DEBUG -  A simple debug message
+ 2018-05-28 20:59:26,033 - INFO -  just some usual info
+ 2018-05-28 20:59:47,593 - WARNING -  Hey! check this warning message
+ 2018-05-28 21:00:00,354 - ERROR -  A system error has ocurred
+ 2018-05-28 21:00:13,730 - CRITICAL -  CRITICAL ERROR 
