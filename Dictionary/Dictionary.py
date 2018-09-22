@@ -2,7 +2,8 @@
 import os, json
 from difflib import get_close_matches
 
-os.chdir('/Users/admin/Desktop/Python/Dictionary')
+# Program assumes that we have the dictionary database in the same folder 
+# os.chdir('/Users/admin/Desktop/Python/Dictionary')
 
 # change working dictionary to our Dictionary folder
 data = json.load(open("data.json"))
