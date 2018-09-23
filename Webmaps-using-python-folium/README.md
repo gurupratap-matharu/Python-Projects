@@ -11,11 +11,12 @@
 
 ## How to run
 
-python3 mapit.py
+> python3 mapit.py
 
 The script will create a Map.html file in the same folder and open a browser window pointing to the volcanoes in the United States with a dark theme in the background.
-All countries have polygon layers implemented.
 
-Volcanoes information is retrieved from the 'volcanoes.txt' file in the same folder.
+## Note
+- All countries have polygon layers implemented.
+- Volcanoes information is retrieved from the 'volcanoes.txt' file in the same folder.
 
-- 
+
