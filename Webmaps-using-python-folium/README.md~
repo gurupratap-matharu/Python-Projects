@@ -6,17 +6,17 @@
 - Adds multiple markers to the base map
 - Adds markers from data files
 - Creates popus windows for map features
-- Adds styling circle markers
-- Uses GeoJson data to create country polygon layer on base map
+- Adding styling circle markers
+- Using GeoJson data
 
 ## How to run
 
-> python3 map.py
+> python3 mapit.py
 
-The script will create a Map1.html file in the same folder and open a browser window pointing to the volcanoes in the United States with a nice theme in the background.
+The script will create a Map.html file in the same folder and open a browser window pointing to the volcanoes in the United States with a dark theme in the background.
 
 ## Note
 - All countries have polygon layers implemented.
 - Volcanoes information is retrieved from the 'volcanoes.txt' file in the same folder.
-- Geojson data is retrieved from world.json file
+
 
